@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "name": "Ajay Bhoyar",
+    "city": "Parsodi, Nagpur",
+    "rating": 5.0,
+    "kilowatt": "5 KW",
+    "review": "5KW on-grid system installed by Solar Skylink team. Very professional workmanship and complete MSEB paperwork handled by them end-to-end. My monthly electricity bill dropped from ₹4500 to under ₹300. Highly recommend to all my friends and neighbours!",
+    "date": "2026-03-24",
+    "profileImage": "https://ishaanjan.github.io/solarskylink/solar_install/Ajay.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Anil Meshram",
+    "city": "Bhandara",
+    "rating": 5.0,
+    "kilowatt": "3 KW",
+    "review": "3KW system running smoothly for 6 months. Chandu sir personally supervised the installation. Zero complaints, quick service, and the panels are still generating peak power. Very happy with the choice.",
+    "date": "2026-04-10",
+    "profileImage": "https://ishaanjan.github.io/solarskylink/solar_install/Anil.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Anmol Wankhede",
+    "city": "Nagpur",
+    "rating": 4.5,
+    "kilowatt": "3 KW",
+    "review": "Great experience with Solar Skylink. Team was punctual, clean and explained every wire and connection. Bifacial panels are performing better than expected during monsoon too.",
+    "date": "2026-04-18",
+    "profileImage": "https://ishaanjan.github.io/solarskylink/solar_install/Anmol.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Prakash Borkar",
+    "city": "Wardha",
+    "rating": 5.0,
+    "kilowatt": "6.6 KW",
+    "review": "Installed 6.6KW for our shop and residence combined. Payback in less than 5 years as promised. Wireless monitoring app is a great bonus — I can see generation from anywhere.",
+    "date": "2026-05-02",
+    "profileImage": "https://ishaanjan.github.io/solarskylink/solar_install/Borkar.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "Ramesh Gedam",
+    "city": "Gadchiroli",
+    "rating": 5.0,
+    "kilowatt": "3 KW",
+    "review": "3KW rooftop plant on my house. Even in Gadchiroli our MSEB office was hesitant but Solar Skylink handled all liaising. Sanction came in 3 weeks. Excellent people to deal with.",
+    "date": "2026-05-15",
+    "profileImage": "https://ishaanjan.github.io/solarskylink/solar_install/Gedam.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "Hemlata Deshmukh",
+    "city": "Amravati",
+    "rating": 5.0,
+    "kilowatt": "5 KW",
+    "review": "As a homemaker I was worried about the technical side but Solar Skylink team explained everything patiently. Installation was clean, no damage to the roof. Bill has almost become zero!",
+    "date": "2026-05-22",
+    "profileImage": "https://ishaanjan.github.io/solarskylink/solar_install/Hemlata.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "Hemraj Patil",
+    "city": "Chandrapur",
+    "rating": 4.5,
+    "kilowatt": "5 KW",
+    "review": "5KW on-grid installed on my house. Very transparent quotation, no hidden costs. Structure quality is top notch — GI hot-dipped as promised. Recommend to everyone.",
+    "date": "2026-06-01",
+    "profileImage": "https://ishaanjan.github.io/solarskylink/solar_install/hemraj.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "Jayprakash Thakre",
+    "city": "Bhandara",
+    "rating": 5.0,
+    "kilowatt": "3 KW",
+    "review": "Excellent service from day one. Site survey, drawing, sanction, installation all completed within 30 days. My family is very happy. Thanks to entire Solar Skylink team.",
+    "date": "2026-06-08",
+    "profileImage": "https://ishaanjan.github.io/solarskylink/solar_install/Jayprakash.jpeg"
+  },
+  {
+    "id": 9,
+    "name": "Kamaldas Nagre",
+    "city": "Gondia",
+    "rating": 5.0,
+    "kilowatt": "3 KW",
+    "review": "Solar Skylink installed 3KW at my home. Real quality panels, real service. After 8 months everything is perfect. When I had a small doubt, they answered on WhatsApp instantly.",
+    "date": "2026-06-15",
+    "profileImage": "https://ishaanjan.github.io/solarskylink/solar_install/Kamaldas.jpeg"
+  },
+  {
+    "id": 10,
+    "name": "Dewaji Kodap",
+    "city": "Gadchiroli",
+    "rating": 5.0,
+    "kilowatt": "3 KW",
+    "review": "3KW on-grid solar system with TOPCon bifacial panels. Everything from bill of material to final commissioning was exactly as promised. Very satisfied with Solar Skylink Green Energy Enterprises.",
+    "date": "2026-06-22",
+    "profileImage": "https://ishaanjan.github.io/solarskylink/solar_install/kodap.jpeg"
+  },
+  {
+    "id": 11,
+    "name": "Nitin Gawande",
+    "city": "Nagpur",
+    "rating": 4.5,
+    "kilowatt": "5 KW",
+    "review": "5KW installed on our commercial godown. Reduced our monthly running cost significantly. Team is knowledgeable and after-sales support is excellent.",
+    "date": "2026-06-28",
+    "profileImage": "https://ishaanjan.github.io/solarskylink/solar_install/nitin.jpeg"
+  },
+  {
+    "id": 12,
+    "name": "Roshan Bhandarkar",
+    "city": "Bhandara",
+    "rating": 5.0,
+    "kilowatt": "8 KW",
+    "review": "8KW system on my two-storey house. Been generating 32-38 units per day consistently. Chandu sir designed the layout perfectly to avoid the water tank shadow. Great planning.",
+    "date": "2026-07-04",
+    "profileImage": "https://ishaanjan.github.io/solarskylink/solar_install/Roshan.jpeg"
+  },
+  {
+    "id": 13,
+    "name": "Shashikant Raut",
+    "city": "Yavatmal",
+    "rating": 5.0,
+    "kilowatt": "3 KW",
+    "review": "Highly recommend Solar Skylink. 3KW plant working like new even after monsoon. Panels self-cleaned by rain. No complaints, only good things to say.",
+    "date": "2026-07-10",
+    "profileImage": "https://ishaanjan.github.io/solarskylink/solar_install/shashikant.jpeg"
+  },
+  {
+    "id": 14,
+    "name": "Swapnil Ingle",
+    "city": "Akola",
+    "rating": 4.5,
+    "kilowatt": "6.6 KW",
+    "review": "6.6KW rooftop system. Design was carefully done to fit our L-shaped rooftop. Structure is very sturdy. Only very minor delay in net-metering approval but that was MSEB's side.",
+    "date": "2026-07-18",
+    "profileImage": "https://ishaanjan.github.io/solarskylink/solar_install/Swapnil.jpeg"
+  },
+  {
+    "id": 15,
+    "name": "Vijay Chavan",
+    "city": "Buldhana",
+    "rating": 5.0,
+    "kilowatt": "5 KW",
+    "review": "5KW plant on my farmhouse. Solar Skylink is the most trustworthy solar company I have worked with. Genuine components, no shortcuts, no upselling. Just honest engineering.",
+    "date": "2026-07-25",
+    "profileImage": "https://ishaanjan.github.io/solarskylink/solar_install/Vijay.jpeg"
+  }
+]
