@@ -1,8 +1,8 @@
 [
   {
     "id": 1,
-    "name": "Ajay Bhoyar",
-    "city": "Parsodi, Nagpur",
+    "name": "Ajay Sukhdeve",
+    "city": "Bhandara",
     "rating": 5.0,
     "kilowatt": "5 KW",
     "review": "5KW on-grid system installed by Solar Skylink team. Very professional workmanship and complete MSEB paperwork handled by them end-to-end. My monthly electricity bill dropped from ₹4500 to under ₹300. Highly recommend to all my friends and neighbours!",
@@ -11,7 +11,7 @@
   },
   {
     "id": 2,
-    "name": "Anil Meshram",
+    "name": "Anil Bhongade",
     "city": "Bhandara",
     "rating": 5.0,
     "kilowatt": "3 KW",
@@ -21,8 +21,8 @@
   },
   {
     "id": 3,
-    "name": "Anmol Wankhede",
-    "city": "Nagpur",
+    "name": "Anmol Shahare",
+    "city": "Thana",
     "rating": 4.5,
     "kilowatt": "3 KW",
     "review": "Great experience with Solar Skylink. Team was punctual, clean and explained every wire and connection. Bifacial panels are performing better than expected during monsoon too.",
@@ -51,8 +51,8 @@
   },
   {
     "id": 6,
-    "name": "Hemlata Deshmukh",
-    "city": "Amravati",
+    "name": "Hemlata Dahake",
+    "city": "Parsodi",
     "rating": 5.0,
     "kilowatt": "5 KW",
     "review": "As a homemaker I was worried about the technical side but Solar Skylink team explained everything patiently. Installation was clean, no damage to the roof. Bill has almost become zero!",
@@ -61,8 +61,8 @@
   },
   {
     "id": 7,
-    "name": "Hemraj Patil",
-    "city": "Chandrapur",
+    "name": "Hemraj Ukey",
+    "city": "Parsodi",
     "rating": 4.5,
     "kilowatt": "5 KW",
     "review": "5KW on-grid installed on my house. Very transparent quotation, no hidden costs. Structure quality is top notch — GI hot-dipped as promised. Recommend to everyone.",
@@ -71,8 +71,8 @@
   },
   {
     "id": 8,
-    "name": "Jayprakash Thakre",
-    "city": "Bhandara",
+    "name": "Jayprakash Meshram",
+    "city": "Parsodi",
     "rating": 5.0,
     "kilowatt": "3 KW",
     "review": "Excellent service from day one. Site survey, drawing, sanction, installation all completed within 30 days. My family is very happy. Thanks to entire Solar Skylink team.",
@@ -81,8 +81,8 @@
   },
   {
     "id": 9,
-    "name": "Kamaldas Nagre",
-    "city": "Gondia",
+    "name": "Kamaldas Jamdal",
+    "city": "Parsodi",
     "rating": 5.0,
     "kilowatt": "3 KW",
     "review": "Solar Skylink installed 3KW at my home. Real quality panels, real service. After 8 months everything is perfect. When I had a small doubt, they answered on WhatsApp instantly.",
@@ -101,8 +101,8 @@
   },
   {
     "id": 11,
-    "name": "Nitin Gawande",
-    "city": "Nagpur",
+    "name": "Nitin Vaida",
+    "city": "Parsodi",
     "rating": 4.5,
     "kilowatt": "5 KW",
     "review": "5KW installed on our commercial godown. Reduced our monthly running cost significantly. Team is knowledgeable and after-sales support is excellent.",
@@ -111,8 +111,8 @@
   },
   {
     "id": 12,
-    "name": "Roshan Bhandarkar",
-    "city": "Bhandara",
+    "name": "Roshan Sarade",
+    "city": "Thana",
     "rating": 5.0,
     "kilowatt": "8 KW",
     "review": "8KW system on my two-storey house. Been generating 32-38 units per day consistently. Chandu sir designed the layout perfectly to avoid the water tank shadow. Great planning.",
@@ -121,8 +121,8 @@
   },
   {
     "id": 13,
-    "name": "Shashikant Raut",
-    "city": "Yavatmal",
+    "name": "Shashikant Mesharam",
+    "city": "Parsodi",
     "rating": 5.0,
     "kilowatt": "3 KW",
     "review": "Highly recommend Solar Skylink. 3KW plant working like new even after monsoon. Panels self-cleaned by rain. No complaints, only good things to say.",
@@ -131,8 +131,8 @@
   },
   {
     "id": 14,
-    "name": "Swapnil Ingle",
-    "city": "Akola",
+    "name": "Swapnil Kolhatkar",
+    "city": "Bhandara",
     "rating": 4.5,
     "kilowatt": "6.6 KW",
     "review": "6.6KW rooftop system. Design was carefully done to fit our L-shaped rooftop. Structure is very sturdy. Only very minor delay in net-metering approval but that was MSEB's side.",
@@ -141,7 +141,7 @@
   },
   {
     "id": 15,
-    "name": "Vijay Chavan",
+    "name": "Vijay Wahane",
     "city": "Buldhana",
     "rating": 5.0,
     "kilowatt": "5 KW",
