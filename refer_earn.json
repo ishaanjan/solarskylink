@@ -1,0 +1,112 @@
+{
+  "config": {
+    "maxPerRefer": 5000,
+    "currencySymbol": "₹",
+    "companyEmail": "solarskylinkgreenenergy@gmail.com",
+    "supportEmail": "solarskylinkgreenenergy@gmail.com",
+    "companyPhone": "8087091683",
+    "companyWhatsapp": "918087091683",
+    "updateNoteDays": 7,
+    "programTagline": "Refer friends, earn up to ₹5000 on every successful installation",
+    "termsUrl": "https://ishaanjan.github.io/solarskylink/term.html"
+  },
+  "referrers": [
+    {
+      "id": 1,
+      "name": "Rajesh Deshmukh",
+      "city": "Bhandara",
+      "phone": "+91-98220-11223",
+      "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=400&q=80",
+      "joinDate": "2024-11-04",
+      "totalReferred": 6,
+      "totalInstalled": 4,
+      "totalPaid": 18000,
+      "referrals": [
+        { "id": 101, "customer": "Anil Ghatole",     "city": "Bhandara",  "kilowatt": "3 KW", "installDate": "2025-01-12", "status": "PAID",       "payout": 5000 },
+        { "id": 102, "customer": "Sunita Wankhede",  "city": "Bhandara",  "kilowatt": "5 KW", "installDate": "2025-02-09", "status": "PAID",       "payout": 5000 },
+        { "id": 103, "customer": "Ravi Chikhale",    "city": "Nagpur",    "kilowatt": "3 KW", "installDate": "2025-03-04", "status": "PAID",       "payout": 5000 },
+        { "id": 104, "customer": "Meena Kalambe",    "city": "Bhandara",  "kilowatt": "2 KW", "installDate": "2025-04-21", "status": "PAID",       "payout": 3000 },
+        { "id": 105, "customer": "Deepak Rangari",   "city": "Sakoli",    "kilowatt": "5 KW", "installDate": "2025-06-02", "status": "INSTALLED",  "payout": 0    },
+        { "id": 106, "customer": "Vishal Meshram",   "city": "Tumsar",    "kilowatt": "3 KW", "installDate": "",           "status": "REFERRED",   "payout": 0    }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Priya Bhandari",
+      "city": "Nagpur",
+      "phone": "+91-98901-55427",
+      "avatar": "https://images.unsplash.com/photo-1544005316-04ce1f2c8b23?auto=format&fit=crop&w=400&q=80",
+      "joinDate": "2025-01-16",
+      "totalReferred": 4,
+      "totalInstalled": 3,
+      "totalPaid": 15000,
+      "referrals": [
+        { "id": 201, "customer": "Kiran Yenurkar",   "city": "Nagpur",    "kilowatt": "5 KW", "installDate": "2025-02-27", "status": "PAID",       "payout": 5000 },
+        { "id": 202, "customer": "Harish Kolhe",     "city": "Nagpur",    "kilowatt": "5 KW", "installDate": "2025-04-05", "status": "PAID",       "payout": 5000 },
+        { "id": 203, "customer": "Neha Gaikwad",     "city": "Wardha",    "kilowatt": "3 KW", "installDate": "2025-05-19", "status": "PAID",       "payout": 5000 },
+        { "id": 204, "customer": "Sagar Wagh",       "city": "Nagpur",    "kilowatt": "2 KW", "installDate": "",           "status": "REFERRED",   "payout": 0    }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Arjun Patil",
+      "city": "Tumsar",
+      "phone": "+91-97656-33091",
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=400&q=80",
+      "joinDate": "2025-02-01",
+      "totalReferred": 3,
+      "totalInstalled": 2,
+      "totalPaid": 10000,
+      "referrals": [
+        { "id": 301, "customer": "Vaibhav Shende",   "city": "Tumsar",    "kilowatt": "5 KW", "installDate": "2025-03-15", "status": "PAID",       "payout": 5000 },
+        { "id": 302, "customer": "Pratik More",      "city": "Bhandara",  "kilowatt": "3 KW", "installDate": "2025-05-08", "status": "PAID",       "payout": 5000 },
+        { "id": 303, "customer": "Snehal Bansod",    "city": "Sakoli",    "kilowatt": "3 KW", "installDate": "",           "status": "REFERRED",   "payout": 0    }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Sunita Kalambe",
+      "city": "Sakoli",
+      "phone": "+91-99231-71148",
+      "avatar": "https://images.unsplash.com/photo-1531123897727-8f129e1688ce?auto=format&fit=crop&w=400&q=80",
+      "joinDate": "2025-03-11",
+      "totalReferred": 3,
+      "totalInstalled": 2,
+      "totalPaid": 8000,
+      "referrals": [
+        { "id": 401, "customer": "Mahesh Waghmare",  "city": "Sakoli",    "kilowatt": "5 KW", "installDate": "2025-04-30", "status": "PAID",       "payout": 5000 },
+        { "id": 402, "customer": "Rekha Bhagat",     "city": "Bhandara",  "kilowatt": "2 KW", "installDate": "2025-06-06", "status": "PAID",       "payout": 3000 },
+        { "id": 403, "customer": "Suresh Kadu",      "city": "Sakoli",    "kilowatt": "3 KW", "installDate": "",           "status": "INSTALLED",  "payout": 0    }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Manoj Chikhalikar",
+      "city": "Bhandara",
+      "phone": "+91-98501-40219",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=400&q=80",
+      "joinDate": "2025-05-22",
+      "totalReferred": 2,
+      "totalInstalled": 1,
+      "totalPaid": 5000,
+      "referrals": [
+        { "id": 501, "customer": "Ramesh Bawankule", "city": "Bhandara",  "kilowatt": "5 KW", "installDate": "2025-07-01", "status": "PAID",       "payout": 5000 },
+        { "id": 502, "customer": "Aarti Chaure",     "city": "Nagpur",    "kilowatt": "3 KW", "installDate": "",           "status": "REFERRED",   "payout": 0    }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Vaishali Uike",
+      "city": "Gondia",
+      "phone": "+91-96570-88012",
+      "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80",
+      "joinDate": "2025-06-18",
+      "totalReferred": 1,
+      "totalInstalled": 0,
+      "totalPaid": 0,
+      "referrals": [
+        { "id": 601, "customer": "Deepika Yerawar", "city": "Gondia",     "kilowatt": "3 KW", "installDate": "",           "status": "REFERRED",   "payout": 0 }
+      ]
+    }
+  ]
+}
