@@ -148,5 +148,55 @@
     "review": "5KW plant on my farmhouse. Solar Skylink is the most trustworthy solar company I have worked with. Genuine components, no shortcuts, no upselling. Just honest engineering.",
     "date": "2026-07-25",
     "profileImage": "https://ishaanjan.github.io/solarskylink/solar_install/Vijay.jpeg"
+  },
+  {
+    "id": 16,
+    "name": "Vivek Yerewar",
+    "city": "Parsodi",
+    "rating": 5.0,
+    "kilowatt": "4 KW",
+    "review": "4KW plant on my house. Solar Skylink is the most trustworthy solar company I have worked with. Genuine components, no shortcuts, no upselling.",
+    "date": "2026-10-17",
+    "profileImage": "https://ishaanjan.github.io/solarskylink/solar_install/vivek_yerewar.jpeg"
+  },
+  {
+    "id": 17,
+    "name": "Ravi Bansod",
+    "city": "Thana",
+    "rating": 5.0,
+    "kilowatt": "4 KW",
+    "review": "4KW plant on my house. Solar Skylink is the most trustworthy solar company I have worked with. Genuine components, no shortcuts, no upselling.",
+    "date": "2026-10-14",
+    "profileImage": "https://ishaanjan.github.io/solarskylink/solar_install/ravi_bansod.jpeg"
+  },
+  {
+    "id": 18,
+    "name": "Jyoti Bhujade",
+    "city": "Thana",
+    "rating": 5.0,
+    "kilowatt": "3.5 KW",
+    "review": "3.5KW plant on my farmhouse. Solar Skylink is the most trustworthy solar company I have worked with. Genuine components, no shortcuts, no upselling. Just honest engineering.",
+    "date": "2026-07-25",
+    "profileImage": "https://ishaanjan.github.io/solarskylink/solar_install/jyoti_bhujade.jpeg"
+  },
+  {
+    "id": 19,
+    "name": "Umesh Madame",
+    "city": "Buldhana",
+    "rating": 5.0,
+    "kilowatt": "3.5 KW",
+    "review": "3.5KW plant on my farmhouse. Solar Skylink is the most trustworthy solar company I have worked with. Genuine components, no shortcuts, no upselling. Just honest engineering.",
+    "date": "2026-09-26",
+    "profileImage": "https://ishaanjan.github.io/solarskylink/solar_install/umesh_madane.jpeg"
+  },
+  {
+    "id": 20,
+    "name": "Kunade Shende",
+    "city": "Bhandara",
+    "rating": 5.0,
+    "kilowatt": "4 KW",
+    "review": "4KW plant on my farmhouse. Solar Skylink is the most trustworthy solar company I have worked with. Genuine components, no shortcuts, no upselling. Just honest engineering.",
+    "date": "2026-09-26",
+    "profileImage": "https://ishaanjan.github.io/solarskylink/solar_install/kunada_shende.jpeg"
   }
 ]
